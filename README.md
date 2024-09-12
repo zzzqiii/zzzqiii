@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently a Ph.D. candidate in Zhejiang University.
+🔭 My major is bioinformatics.
 <!--
 **zzzqiii/zzzqiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
